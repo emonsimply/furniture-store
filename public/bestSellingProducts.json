@@ -1,0 +1,114 @@
+[
+  {
+    "id": "bs-001",
+    "name": "Modern Executive Office Desk",
+    "category": "Office Furniture",
+    "type": "Executive Desk",
+    "price": 38500,
+    "oldPrice": 42000,
+    "currency": "BDT",
+    "rating": 4.8,
+    "reviews": 124,
+    "stock": 15,
+    "isBestSeller": true,
+    "image": "https://tijarabdfurniture.com/wp-content/uploads/2023/01/TSET-0342.png",
+    "gallery": [
+      "https://tijarabdfurniture.com/wp-content/uploads/2023/01/TSET-0342.png",
+      "https://tijarabdfurniture.com/wp-content/uploads/2023/01/TSET-0342.png"
+    ],
+    "features": [
+      "Premium engineered wood",
+      "Scratch resistant finish",
+      "Cable management system"
+    ],
+    "dimensions": {
+      "width": "180cm",
+      "depth": "80cm",
+      "height": "75cm"
+    }
+  },
+  {
+    "id": "bs-002",
+    "name": "Luxury CEO Boss Table",
+    "category": "Office Furniture",
+    "type": "Boss Table",
+    "price": 62000,
+    "oldPrice": 68000,
+    "currency": "BDT",
+    "rating": 4.9,
+    "reviews": 98,
+    "stock": 8,
+    "isBestSeller": true,
+    "image": "https://bongofurniture.com/cdn/shop/collections/CEO-DESK_c48434fc-0ff6-4c3d-ab89-3a01af0192ee.jpg?v=1750056664",
+    "gallery": [
+      "https://bongofurniture.com/cdn/shop/collections/CEO-DESK_c48434fc-0ff6-4c3d-ab89-3a01af0192ee.jpg?v=1750056664",
+      "https://bongofurniture.com/cdn/shop/collections/CEO-DESK_c48434fc-0ff6-4c3d-ab89-3a01af0192ee.jpg?v=1750056664"
+    ],
+    "features": [
+      "Solid wood finish",
+      "Soft-close drawers",
+      "Premium executive design"
+    ],
+    "dimensions": {
+      "width": "200cm",
+      "depth": "90cm",
+      "height": "75cm"
+    }
+  },
+  {
+    "id": "bs-003",
+    "name": "Ergonomic Workstation Desk",
+    "category": "Office Furniture",
+    "type": "Workstation",
+    "price": 22500,
+    "oldPrice": 26000,
+    "currency": "BDT",
+    "rating": 4.6,
+    "reviews": 210,
+    "stock": 35,
+    "isBestSeller": true,
+    "image": "https://doubleblackimaging.com/wp-content/uploads/2020/04/Ergonomic-Workstation-400.jpg",
+    "gallery": [
+      "https://doubleblackimaging.com/wp-content/uploads/2020/04/Ergonomic-Workstation-400.jpg",
+      "https://doubleblackimaging.com/wp-content/uploads/2020/04/Ergonomic-Workstation-400.jpg"
+    ],
+    "features": [
+      "Ergonomic design",
+      "Durable metal frame",
+      "Compact workspace"
+    ],
+    "dimensions": {
+      "width": "140cm",
+      "depth": "70cm",
+      "height": "75cm"
+    }
+  },
+  {
+    "id": "bs-004",
+    "name": "Premium Conference Table (10 Seater)",
+    "category": "Office Furniture",
+    "type": "Conference Table",
+    "price": 88000,
+    "oldPrice": 95000,
+    "currency": "BDT",
+    "rating": 4.7,
+    "reviews": 64,
+    "stock": 5,
+    "isBestSeller": true,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2025/7/524020432/GT/ZC/PH/28437605/10-seater-rectangular-office-conference-table-500x500.jpg",
+    "gallery": [
+      "https://5.imimg.com/data5/SELLER/Default/2025/7/524020432/GT/ZC/PH/28437605/10-seater-rectangular-office-conference-table-500x500.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2025/7/524020432/GT/ZC/PH/28437605/10-seater-rectangular-office-conference-table-500x500.jpg"
+    ],
+    "features": [
+      "Large meeting capacity",
+      "Cable ports included",
+      "Scratch resistant surface"
+    ],
+    "dimensions": {
+      "width": "320cm",
+      "depth": "120cm",
+      "height": "75cm"
+    }
+  }
+]

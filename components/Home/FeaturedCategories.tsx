@@ -1,5 +1,6 @@
 import { div } from "motion/react-client";
 import React from "react";
+import Title from "../ui/Title";
 
 const categories = [
   {
@@ -32,6 +33,7 @@ const categories = [
 const FeaturedCategories = () => {
   return (
     <section className="max-w-7xl mx-auto my-12 px-4">
+      <Title title="Explore Our Popular Furniture Categories" center={false} />
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
         {/* Left Large Card */}
         <div className="relative lg:col-span-2 h-105 overflow-hidden group">

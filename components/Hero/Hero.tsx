@@ -17,7 +17,7 @@ const slides = [
 
 const Hero: React.FC = () => {
   return (
-    <section className="w-full">
+    <section className="w-full mt-26">
       <Swiper
         modules={[Pagination, Autoplay, Navigation]}
         pagination={{ clickable: true }}

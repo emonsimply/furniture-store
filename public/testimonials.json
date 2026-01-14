@@ -1,0 +1,34 @@
+[
+  {
+    "id": "t1",
+    "name": "Mahmud Hasan",
+    "role": "Office Manager",
+    "message": "The boss table quality is outstanding. It completely upgraded our office look.",
+    "rating": 5,
+    "avatar": "https://i.pravatar.cc/150?img=12"
+  },
+  {
+    "id": "t2",
+    "name": "Nusrat Jahan",
+    "role": "Business Owner",
+    "message": "Very premium furniture. Delivery was fast and packaging was excellent.",
+    "rating": 4,
+    "avatar": "https://i.pravatar.cc/150?img=32"
+  },
+  {
+    "id": "t3",
+    "name": "Rakib Ahmed",
+    "role": "CEO",
+    "message": "Highly recommended for corporate furniture. Totally worth the price.",
+    "rating": 5,
+    "avatar": "https://i.pravatar.cc/150?img=56"
+  },
+  {
+    "id": "t4",
+    "name": "Rakib Ahmed",
+    "role": "CEO",
+    "message": "Highly recommended for corporate furniture. Totally worth the price.",
+    "rating": 5,
+    "avatar": "https://i.pravatar.cc/150?img=56"
+  }
+]

@@ -123,8 +123,9 @@ const ProductDetailsPage = ({ params }: PageProps) => {
 
           {/* CTA */}
           
-          <Button className="rounded-none w-full">buy Now</Button>
-          <Button variant="outline" className="rounded-none w-full mt-2">Add to Cart</Button>
+          
+          <Button variant="outline" className="rounded-none w-full my-2">Add to Cart</Button>
+          <Button variant="mono" className="rounded-none w-full">Buy it now</Button>
         </div>
       </div>
     </section>

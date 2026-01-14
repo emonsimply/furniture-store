@@ -9,7 +9,7 @@ interface Props {
 
 const ProductCard: React.FC<Props> = ({ product }) => {
   return (
-    <div className="bg-white rounded-xl border hover:shadow-md transition overflow-hidden group">
+    <Link href={`/products/${product.id}`} className="bg-white border hover:shadow-md transition overflow-hidden group">
       
       {/* Image */}
       <div className="relative h-52 bg-gray-100">
@@ -55,15 +55,9 @@ const ProductCard: React.FC<Props> = ({ product }) => {
           )}
         </div>
 
-        {/* Action */}
-        <Link
-        href={`/products/${product.id}`}
-        className="text-blue-600 underline mt-2 inline-block"
-      >
-        View Details
-      </Link>
+        
       </div>
-    </div>
+    </Link>
   );
 };
 
